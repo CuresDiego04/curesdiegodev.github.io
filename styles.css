@@ -1,0 +1,118 @@
+body
+{
+    margin: 0;
+}
+#navbar
+{
+    overflow: hidden;
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+}
+#title
+{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 2em;
+    padding-left: 25px;
+    padding-right: 30px;
+}
+#navbar a
+{
+    color: white;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    float: left;
+    padding-top: 10px;
+    padding-right: 35px;
+}
+#about-me
+{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    overflow: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+#about-me h1
+{
+    font-size: 50px;
+}
+#hello
+{
+    width: fit-content;
+    background-color: greenyellow;
+}
+#i-am
+{
+    background-color: greenyellow;
+}
+#about-me-text
+{
+    padding-top: 130px;
+}
+#connaissances
+{
+    text-align: center;
+    background-color: white;
+    overflow: hidden;
+}
+#connaissances h1
+{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 4em;
+}
+#connaissances img
+{
+
+    width: fit-content;
+    padding-left: 20px;
+}
+#connaissances h3
+{
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+#connaissances p
+{
+    padding-left: 20px;
+    font-family: 'Montserrat', sans-serif;
+    display: inline-block;
+}
+#python-screen
+{
+    float: right;
+}
+#python-screen img
+{
+    width: 100%;
+    height: auto;
+}
+#projets
+{
+    background-color: white;
+}
+#projets h1
+{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 4em;
+}
+#contact
+{
+    background-color: white;
+}
+#contact h1
+{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 4em;
+}
+#contact h3
+{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 4em;
+}
