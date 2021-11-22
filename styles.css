@@ -81,15 +81,6 @@ body
     font-family: 'Montserrat', sans-serif;
     display: inline-block;
 }
-#python-screen
-{
-    float: right;
-}
-#python-screen img
-{
-    width: 100%;
-    height: auto;
-}
 #projets
 {
     background-color: white;
@@ -115,4 +106,16 @@ body
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     font-size: 4em;
+}
+#python h1
+{
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Montserrat', sans-serif;
+}
+#python-description
+{
+    padding-top: 5%;
+    padding-right: 50%;
+    float: right;
 }
